@@ -10,9 +10,9 @@ October 2025 – January 2026
 
 Most retail "quant" projects backtest a moving average crossover on SPY, get a 2.0 Sharpe with zero transaction costs, and call it alpha. This project exists because I wanted to answer a harder question: **can you find a short-horizon signal in the most liquid ETFs in the world, after realistic costs, with honest out-of-sample validation?**
 
-SPY, QQQ, and IWM are the hardest instruments to find edge in. They're traded by every HFT, every stat-arb desk, and every systematic macro fund on the planet. If a signal survives in these names after 5bps of slippage, it's real — or at least, it's worth investigating further.
+SPY, QQQ, and IWM are the hardest instruments to find edge in. They're traded by every HFT, every stat-arb desk, and every systematic macro fund on the planet. If a signal survives in these names after 5bps of slippage, it's real. Or at least, it's worth investigating further.
 
-The answer: **yes, but barely, and only under specific conditions.** The signal exists in the first two hours after open, disappears by midday, and only works reliably in low-volatility regimes. That's not a flaw — that's a feature. It tells you something about market microstructure.
+The answer: **yes, but barely, and only under specific conditions.** The signal exists in the first two hours after open, disappears by midday, and only works reliably in low-volatility regimes. That's not a flaw, that's a feature. It tells you something about market microstructure.
 
 ---
 
